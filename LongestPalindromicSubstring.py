@@ -1,3 +1,5 @@
+#More efficient solution using trie tree structure
+
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         l = len(s)
